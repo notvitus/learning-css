@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'SFBold'; 
-    src: url('fonts/SF-Pro-Display-Bold.otf') format('opentype'); 
-  }
-  
-  .sfbold-text {
-    all: unset;
-    font-family: 'SFBold', sans-serif; 
-    color: rgb(255, 255, 255);
-    font-size: 100px;
-    border: 10px solid green;
-  }
+  font-family: "SFBold";
+  src: url("fonts/SF-Pro-Display-Bold.otf") format("opentype");
+}
+
+.sfbold-text {
+  all: unset;
+  font-family: "SFBold", sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 100px;
+  border: 10px solid green;
+}
